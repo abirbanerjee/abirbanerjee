@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @abirbanerjee
 - 👀 I’m interested in C, C++, Java, JavaScript, Python, C#.
-- 🌱 I’m currently learning Node.JS
+- 🌱 I’m currently learning Deno
 - 💞️ I’m looking to collaborate on any interesting project, regardless of the language
 - 📫 How to reach me abir.banerjee@gmail.com
 - ⚡ Fun fact: I worked in a bank for 8 years.
